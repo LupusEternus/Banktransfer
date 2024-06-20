@@ -4,7 +4,6 @@ import com.wilk.core.events.DepositRequestEvent;
 import com.wilk.core.events.WithdrawRequestEvent;
 import com.wilk.transferservice.model.TransferRestModel;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.core.KafkaTemplate;
